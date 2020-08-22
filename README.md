@@ -1,7 +1,8 @@
 # system-design
 Holds notes for system design
-## System Design Primer
+## General
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Twelve factor app](https://12factor.net/)
 
 ## DNS
 - [Intro to how DNS Works](https://howdns.works/ep1/)
