@@ -14,5 +14,6 @@ Holds notes for system design
 - [Intro to BIND](http://www.firewall.cx/linux-knowledgebase-tutorials/system-and-network-services/829-linux-bind-introduction.html)
   - Authoritative or Recursive
 - [Unbound](https://github.com/NLnetLabs/unbound)
+  - Recursive ONLY
 ### Secure DNS
 - [DNS over TLS vs. over HTTPS](https://www.cloudflare.com/learning/dns/dns-over-tls/)
