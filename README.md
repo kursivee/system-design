@@ -1,5 +1,7 @@
 # system-design
 Holds notes for system design
+## System Design Primer
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## DNS
 - [Intro to how DNS Works](https://howdns.works/ep1/)
