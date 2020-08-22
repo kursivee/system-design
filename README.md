@@ -8,7 +8,11 @@ Holds notes for system design
 ### Geolocation
 - [Microsoft Geolocation based traffic](https://docs.microsoft.com/en-us/windows-server/networking/dns/deploy/primary-geo-location)
 - [How geographic routing works](https://ns1.com/resources/how-geographic-routing-works#:~:text=The%20basic%20concept%20behind%20geographic,physically%20closest%20to%20the%20requestor.&text=The%20location%20of%20the%20IP,the%20DNS%20query%20was%20received.)
-### BIND
+### Nameservers
+- [Authoritative vs Recursive](https://ns1.com/resources/whats-the-difference-authoritative-and-recursive-dns-explained)
+#### Libraries
 - [Intro to BIND](http://www.firewall.cx/linux-knowledgebase-tutorials/system-and-network-services/829-linux-bind-introduction.html)
+  - Authoritative or Recursive
+- [Unbound](https://github.com/NLnetLabs/unbound)
 ### Secure DNS
 - [DNS over TLS vs. over HTTPS](https://www.cloudflare.com/learning/dns/dns-over-tls/)
