@@ -23,3 +23,12 @@ Holds notes for system design
   - Recursive ONLY
 ### Secure DNS
 - [DNS over TLS vs. over HTTPS](https://www.cloudflare.com/learning/dns/dns-over-tls/)
+
+# Android Design
+## Intro
+- [Preparing for Android System Design Interview](https://medium.com/@lokeshloke/preparing-for-an-android-system-design-interview-84991519807a)
+- [Mobile System Design Interview](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b)
+
+## Key Metrics
+- App Performance
+- Battery Life
